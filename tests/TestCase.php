@@ -2,9 +2,9 @@
 
 namespace Cck\GreenApiSdkSaloon\Tests;
 
+use Cck\GreenApiSdkSaloon\GreenApiSdkSaloonServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Cck\GreenApiSdkSaloon\GreenApiSdkSaloonServiceProvider;
 
 class TestCase extends Orchestra
 {
